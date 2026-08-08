@@ -1,2 +1,2 @@
-# fuji
+# fuji-blog
 ue5
